@@ -1,0 +1,24 @@
+# Composer
+/vendor/
+/composer.lock
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+/logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE / editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# PHPStorm / JetBrains
+*.iml
