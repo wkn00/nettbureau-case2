@@ -28,8 +28,8 @@ This PHP integration automatically creates **organizations**, **persons**, and *
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/case2-nettbureau.git
-cd case2-nettbureau
+git clone https://github.com/wkn00/nettbureau-case2.git
+cd nettbureau-case2
 ```
 2. Install dependencies:
 ```bash
